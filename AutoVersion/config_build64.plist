@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildType</key>
+	<string>10</string>
+	<key>BuildType说明</key>
+	<dict>
+		<key>0</key>
+		<string>编译代码及资源，将资源放置在包体</string>
+		<key>1</key>
+		<string>编译代码及资源，将资源放置在包体，并额外生成一份放置包外，用户部署更新</string>
+		<key>2</key>
+		<string>只编译代码，不编译资源</string>
+		<key>3</key>
+		<string>只编译资源，不编译代码</string>
+		<key>4</key>
+		<string>台湾版本，其他同1</string>
+		<key>10</key>
+		<string>不编译代码及资源，只编译xcode生成ipa</string>
+	</dict>
+	<key>GameVersion</key>
+	<string>0</string>
+	<key>ProgramVersion</key>
+	<string>577</string>
+	<key>ResVersion</key>
+	<string>0</string>
+	<key>EnableUpdate</key>
+	<string>0</string>
+	<key>EnableGM</key>
+	<string>1</string>
+	<key>EnableDebugMode</key>
+	<string>1</string>
+	<key>EnableShareCenter</key>
+	<string>1</string>
+	<key>UnityPath</key>
+	<string>/Applications/Unity462/Unity.app/Contents/MacOS/Unity</string>
+	<key>ClientPath</key>
+	<string>/Users/WD/workspace/Project/mtlbb_main/Project/Client</string>
+	<key>ChannelList</key>
+	<array>
+		<string>AppStore</string>
+	</array>
+	<key>ChannelList - 2</key>
+	<array>
+		<string>HM</string>
+		<string>XY</string>
+		<string>As</string>
+		<string>AppStore</string>
+		<string>TongBu</string>
+		<string>91</string>
+		<string>PP</string>
+		<string>KuaiYong</string>
+		<string>iTools</string>
+		<string>iOS360</string>
+		<string>Momo</string>
+	</array>
+</dict>
+</plist>
