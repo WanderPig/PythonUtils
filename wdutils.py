@@ -153,4 +153,8 @@ def CmdUnityScript(unityPath, projPath, method):
     return DoCmd(unityPath + " -batchmode -quit -projectPath " + projPath + " -executeMethod " + method)
 
 
-
+#常用命令
+#sys.argv 获取命令行参数
+#os.sep 路径分隔符
+#os.path.exists 文件是否存在
+#os.path.dirname 文件所在文件夹
